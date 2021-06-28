@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"finalMapAdventure\/map2.jsonAdventure\/map2.json"
+                 "value":".\/map2.json"
                 }],
          "type":"tilelayer",
          "visible":true,
