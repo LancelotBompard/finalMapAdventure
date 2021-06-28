@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/maps\/bigMap.json"
+                 "value":".\/maps\/3rdFloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
