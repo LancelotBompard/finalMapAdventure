@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":".\/3rdFloor.json"
+                 "value":"..\/3rdFloor.json"
                 }],
          "type":"tilelayer",
          "visible":true,
